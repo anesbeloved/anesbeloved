@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @anesbeloved
-- 👀 I’m a Junior Game Developer
-- 💞️ I’m looking to collaborate on Developing games
+- 👋 Hi, My name is BENNACEUR ANES ABDELALIM.
+- 👀 I’m a Junior Game Developer.
+- ❤️ I'm passionate with Programming and Game Development.
+- 💞️ I’m looking to collaborate in Developing games
 - 📫 How to reach me 
       * Instagram:  @beloved_anes
       * email: business.anesbeloved@gmail.com
